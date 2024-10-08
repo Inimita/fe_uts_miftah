@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fe_uts_miftah_kamiliyah/static/css/main.cd169bb2.css",
-    "main.js": "/fe_uts_miftah_kamiliyah/static/js/main.2eca2380.js",
-    "index.html": "/fe_uts_miftah_kamiliyah/index.html",
-    "main.cd169bb2.css.map": "/fe_uts_miftah_kamiliyah/static/css/main.cd169bb2.css.map",
-    "main.2eca2380.js.map": "/fe_uts_miftah_kamiliyah/static/js/main.2eca2380.js.map"
+    "main.css": "/fe_uts_miftah/static/css/main.cd169bb2.css",
+    "main.js": "/fe_uts_miftah/static/js/main.2eca2380.js",
+    "index.html": "/fe_uts_miftah/index.html",
+    "main.cd169bb2.css.map": "/fe_uts_miftah/static/css/main.cd169bb2.css.map",
+    "main.2eca2380.js.map": "/fe_uts_miftah/static/js/main.2eca2380.js.map"
   },
   "entrypoints": [
     "static/css/main.cd169bb2.css",
